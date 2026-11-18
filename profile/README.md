@@ -6,8 +6,8 @@ We specialise in AI solutions for small and medium-sized businesses in South Kar
 
 ## What we work on
 
-- **AI for business systems.** An AI assistant that searches a company's own systems and shows where each answer comes from. It is in continuous development: our own CRM and the SBKT bookkeeping checker are under construction.
-- **Web and mobile apps.** For example, a season registration and coaching timetable app for a tennis club.
+- **AI for business systems.** An AI assistant that searches a company's own systems and can show where each answer comes from. It is in continuous development: our own CRM and the SBKT bookkeeping checker are under construction.
+- **Web and mobile apps.** For example, our own tennis club management app, which brings a season's coaching groups and players' training times together in one place.
 - **Websites.** Design, publishing and maintenance. Our own site is built with [Astro](https://astro.build) and runs on Cloudflare Pages.
 
 ## Team
