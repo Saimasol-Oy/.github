@@ -12,11 +12,31 @@ We specialise in AI solutions for small and medium-sized businesses in South Kar
 
 ## Team
 
-| | |
-|---|---|
-| **Elias Auvinen** | Software Engineering and Digital Transformation |
-| **Jaakko Tyynelä** | Software Engineering and Digital Transformation |
-| **Eeri Hyppänen** | Software Product Management and Business |
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://saimasol.fi/team/elias.webp" width="120" height="120" alt="Elias Auvinen"><br>
+      <b>Elias Auvinen</b><br>
+      <sub>Co-founder</sub><br><br>
+      <a href="mailto:elias.auvinen@saimasol.fi">elias.auvinen@saimasol.fi</a><br>
+      <a href="https://www.linkedin.com/in/elias-auvinen-556960325/">LinkedIn</a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://saimasol.fi/team/jaakko.webp" width="120" height="120" alt="Jaakko Tyynelä"><br>
+      <b>Jaakko Tyynelä</b><br>
+      <sub>Co-founder</sub><br><br>
+      <a href="mailto:jaakko.tyynela@saimasol.fi">jaakko.tyynela@saimasol.fi</a><br>
+      <a href="https://www.linkedin.com/in/jaakkotyynela313/">LinkedIn</a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://saimasol.fi/team/eeri.webp" width="120" height="120" alt="Eeri Hyppänen"><br>
+      <b>Eeri Hyppänen</b><br>
+      <sub>Co-founder</sub><br><br>
+      <a href="mailto:eeri.hyppanen@saimasol.fi">eeri.hyppanen@saimasol.fi</a><br>
+      <a href="https://www.linkedin.com/in/eerihyppanen/">LinkedIn</a>
+    </td>
+  </tr>
+</table>
 
 ## Contact
 
